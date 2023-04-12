@@ -1,11 +1,11 @@
 programa
 {
-	
+	// mudando o númedo de itens do array de 4 para 2 somente para testar o merge do github
 	funcao inicio()
 	{
-		inteiro numero[4],x
+		inteiro numero[2],x
 
-		para (x=0; x<4; x++)
+		para (x=0; x<2; x++)
 		{
 			escreva( "Entre com um núemro: ")
 			leia(numero[x])
@@ -26,7 +26,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 324; 
+ * @POSICAO-CURSOR = 411; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
